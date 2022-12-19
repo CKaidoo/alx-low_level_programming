@@ -6,6 +6,7 @@
  *
  *Return: nothing, return void
  */
+
 int main(void)
 {
 	_putchar('_');
@@ -19,6 +20,4 @@ int main(void)
 	_putchar('\n');
 
 return (0);
-
-
 }
