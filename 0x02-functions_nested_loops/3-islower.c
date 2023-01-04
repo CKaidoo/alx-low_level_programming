@@ -16,7 +16,7 @@ return (1);
 
 else
 {
-returni (0);
+return (0);
 }
 
 }
